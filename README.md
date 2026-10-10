@@ -1,3 +1,3 @@
 # SwarmMovement
-A system that handles steering and updating swarming agents. It provides a movement system that combines multiple forces—like seek, avoidance, separation, alignment, and cohesion—to drive agent velocity, position, and rotation.
+A system that handles steering and updating the movement of swarming agents. It provides logic that combines multiple forces—like seek, avoidance, separation, alignment, and cohesion—to drive agent velocity, position, and rotation.
 The system iterates registered ISwarmMovable agents, finds neighbors, computes a weighted desired velocity from each enabled movement force, clamps steering by acceleration, updates position, and rotates the agent toward travel direction. The interface ISwarmMovable defines the state the system needs, including movement limits, target data, neighbor lists, and force configuration.
