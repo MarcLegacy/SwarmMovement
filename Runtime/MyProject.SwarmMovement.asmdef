@@ -1,0 +1,20 @@
+{
+    "name": "MyProject.SwarmMovement",
+    "rootNamespace": "MyProject.SwarmMovement",
+    "references": [
+        "GUID:621530985f96fd44f9cbf256af959a19",
+        "GUID:d397549764b5d8b40b3953c374deda3d",
+        "GUID:e0cd26848372d4e5c891c569017e11f1",
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:5ed69db25ede3284a97a2d69f64fdbad"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
